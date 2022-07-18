@@ -1,27 +1,24 @@
 <details>
-  <summary> КТО ?</summary>
+  <summary><strong>&nbsp;КТО ?</strong></summary>
   
-  ``` 
-  monkey monkey monkey 🙊
-  ```
+  <div>&nbsp;</div>
+  <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;monkey monkey monkey 🙊 </div>
 </details>
 
 ---
 
 <details>
-  <summary> ГДЕ ?</summary>
+  <summary><strong>&nbsp;ГДЕ ?</strong></summary>
   
-  ```
-  monkey monkey monkey 🙊
-  ```
+  <div>&nbsp;</div>
+  <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;monkey monkey monkey 🙊 </div>
 </details>
 
 ---
 
 <details>
-  <summary> ПОЧЕМУ ?</summary>
+  <summary><strong>&nbsp;ПОЧЕМУ ?</strong></summary>
   
-  ```
-  monkey monkey monkey 🙊
-  ```
+  <div>&nbsp;</div>
+  <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;monkey monkey monkey 🙊 </div>
 </details>
