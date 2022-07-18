@@ -1,5 +1,3 @@
-## FAQ
-
 <details>
   <summary> КТО ?</summary>
   
